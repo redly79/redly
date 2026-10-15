@@ -101,7 +101,7 @@ Je suis intéressé par les opportunités en **soutien informatique, support tec
 
 📧 **Email :** Lyamine.redjdal@gmail.com
 
-💻 **GitHub :** [Découvrir mes projets](https://github.com/redly)
+💻 **GitHub :** [Découvrir mes projets](https://github.com/redly79)
 
 N'hésitez pas à explorer mes dépôts et à me contacter pour échanger autour des technologies de l'information.
 
